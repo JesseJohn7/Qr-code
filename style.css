@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(199, 224, 218);
+    text-align: center;
+    margin-top: 80px;
+}
+
+.container{
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.image1{
+    width: 220px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+h1{
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    margin: 7px;
+    text-align: center;
+}
+
+p{
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: lighter;
+    
+}
